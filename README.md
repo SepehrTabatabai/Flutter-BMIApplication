@@ -6,8 +6,9 @@ it is important to mention that these programs were written by a junior develope
 
 ## Screenshots
 
-![Capture](https://github.com/SepehrTabatabai/Flutter-BMIApplication/assets/139041250/0bdcefea-ecfb-442c-80ec-0e94c2cb3fec)
-![Capture2](https://github.com/SepehrTabatabai/Flutter-BMIApplication/assets/139041250/e51c2072-2ce6-418a-9a31-5e4529453a7b)
+![1](https://github.com/SepehrTabatabai/Flutter-BMIApplication/assets/139041250/9090a4eb-34e9-4252-9031-b56a1cf98d27)
+![2](https://github.com/SepehrTabatabai/Flutter-BMIApplication/assets/139041250/7e4ae0a8-9ca0-48ad-a75d-75c024a0acda)
+![3](https://github.com/SepehrTabatabai/Flutter-BMIApplication/assets/139041250/376d742b-286a-4300-b10e-59f4bbe2c40f)
 
 
 ## Getting Started
